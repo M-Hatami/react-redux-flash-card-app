@@ -1,3 +1,18 @@
+<html lang="fa" dir="rtl">
+<body>
+<h1>معرفی
+</h1>
+<p>برنامه ایجاد برگه‌های حافظه زیر و رو شو. کاربران می توانند موضوعات خود را ایجاد کنند، آزمون هایی برای آن موضوعات و سپس برگه‌هایی برای آن آزمون‌ها ایجاد کنند. کاربران همچنین می توانند با چرخاندن برگه‌های حافظه با آزمون های خود تعامل داشته باشند.
+
+ این سامانه بوسیله ری‌اکت جاوا اسکریپت و ریداکس نوشته شده است:</p>
+<div>
+<img src="https://raw.githubusercontent.com/M-Hatami/react-redux-online-store/master/public/img/screenshot-online-shop-farsi.webp" alt="نمونه رابط کاربری"/>
+</div>
+<br/>
+<p>برای ملاحظه ارائه زنده به <a href="https://react-redux-online-store.netlify.app/">نمونه برخط</a> این طرح مراجعه فرمایید.
+</p>
+</body>
+</html>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

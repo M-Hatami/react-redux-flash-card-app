@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { useSelector } from "react-redux";
 import { selectCards } from "./cardsSlice";
-import { Link, useParams } from "react-router-dom";
+//import { Link, useParams } from "react-router-dom";
 
 export default function Card({ id }) {
   const cards = useSelector(selectCards);
