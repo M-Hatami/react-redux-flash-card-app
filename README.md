@@ -4,9 +4,11 @@
 </h1>
 <p>برنامه ایجاد برگه‌های حافظه زیر و رو شو. کاربران می توانند موضوعات خود را ایجاد کنند، آزمون هایی برای آن موضوعات و سپس برگه‌هایی برای آن آزمون‌ها ایجاد کنند. کاربران همچنین می توانند با چرخاندن برگه‌های حافظه با آزمون های خود تعامل داشته باشند.
 
- این سامانه بوسیله ری‌اکت جاوا اسکریپت و ریداکس نوشته شده است:</p>
+این سامانه بوسیله ری‌اکت جاوا اسکریپت و ریداکس نوشته شده است:</p>
+
 <div>
-<img src="https://raw.githubusercontent.com/M-Hatami/react-redux-online-store/master/public/img/screenshot-online-shop-farsi.webp" alt="نمونه رابط کاربری"/>
+<img src="https://github.com/M-Hatami/react-redux-flash-card-app/blob/master/public/img/1.jpg?raw=true" alt="نمونه رابط کاربری"/>
+<img src="https://raw.githubusercontent.com/M-Hatami/react-redux-flash-card-app/master/public/img/2.jpg" alt="نمونه رابط کاربری"/>
 </div>
 <br/>
 <p>برای ملاحظه ارائه زنده به <a href="https://react-redux-flash-card-app.netlify.app/">نمونه برخط</a> این طرح مراجعه فرمایید.
