@@ -89,7 +89,7 @@ export default function NewQuizForm() {
               onChange={(e) =>
                 updateCardState(index, "front", e.currentTarget.value)
               }
-              placeholder="جلو"
+              placeholder="پیش"
             />
 
             <input
@@ -98,7 +98,7 @@ export default function NewQuizForm() {
               onChange={(e) =>
                 updateCardState(index, "back", e.currentTarget.value)
               }
-              placeholder="عقب"
+              placeholder="پس"
             />
 
             <button

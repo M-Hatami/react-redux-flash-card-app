@@ -9,7 +9,7 @@
 <img src="https://raw.githubusercontent.com/M-Hatami/react-redux-online-store/master/public/img/screenshot-online-shop-farsi.webp" alt="نمونه رابط کاربری"/>
 </div>
 <br/>
-<p>برای ملاحظه ارائه زنده به <a href="https://react-redux-online-store.netlify.app/">نمونه برخط</a> این طرح مراجعه فرمایید.
+<p>برای ملاحظه ارائه زنده به <a href="https://react-redux-flash-card-app.netlify.app/">نمونه برخط</a> این طرح مراجعه فرمایید.
 </p>
 </body>
 </html>
